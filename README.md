@@ -14,8 +14,9 @@
 
 <br>
 
-<p>
-Olá, meu nome é Márcio, tenho 22 anos e sou estudante de programação com foco em back-end. 
+<h3 align="left">Olá, meu nome é Márcio 👋 </h3>
+<p align="left">
+tenho 22 anos e sou estudante de programação com foco em back-end. 
 Concluí o ensino médio junto com o curso técnico em informática na Etec Pedro Leme Brisolla Sobrinho, onde tive meu primeiro contato com programação e tecnologia. 
 Foi a partir dessa experiência que desenvolvi meu interesse em me tornar programador.
 </p>
