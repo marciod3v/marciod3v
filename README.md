@@ -1,19 +1,24 @@
-
+---
 <div align="center">
-<img style="width:700px;" src="https://github.com/user-attachments/assets/3f4d07f0-85c5-4295-b472-ef00cf0d4a68">
+<img style="width:700px;" src="https://github.com/user-attachments/assets/3f4d07f0-85c5-4295-b472-ef00cf0d4a68"> 
 </div>
 
 <br>
 
-
 <div align="center">
 
 <br>
 
-**`Desenvolvedor Back-End`**
+---
 
+<div align="left">
+  <h2>Olá meu nome é Marcio 👋</h2>
+  <br>
+  <h3><strong>Desenvolvedor Back-End<strong></h3>
+</div>
 
-<h3 align="left">Olá, meu nome é Márcio 👋 </h3>
+---
+
 <p align="left">
   Tenho 22 anos e sou estudante de programação com foco em back-end. 
 Concluí o ensino médio junto com o curso técnico em informática na Etec Pedro Leme Brisolla Sobrinho, onde tive meu primeiro contato com programação e tecnologia. 
@@ -54,6 +59,10 @@ Foi a partir dessa experiência que desenvolvi meu interesse em me tornar progra
 <br>
   
 ### 📈 Estatísticas
+
+---
+
+<br>
 
 <p>
   <img 
