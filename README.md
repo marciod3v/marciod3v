@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👨🏻‍💻 Márcio David 
 
-<!--
-**marciod3v/marciod3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End`**
+<p>
+Olá, meu nome é Márcio, tenho 22 anos e sou estudante de programação com foco em back-end. 
+Concluí o ensino médio junto com o curso técnico em informática na Etec Pedro Leme Brisolla Sobrinho, onde tive meu primeiro contato com programação e tecnologia. 
+Foi a partir dessa experiência que desenvolvi meu interesse em me tornar programador.
+</p>
 
-Here are some ideas to get you started:
+**`Linguagens e Tecnologias`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>
+<img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+                   
+<img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+
+<img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+          
+<img width = 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+### 📈 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=marciod3v&show_icons=true&theme=tokyonight" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" 
+  />
+
+</p>
+
+          
