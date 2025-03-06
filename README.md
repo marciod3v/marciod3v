@@ -4,7 +4,7 @@
 </div>
 
 <br>
-<br>
+
 
 <div align="center">
 
@@ -12,7 +12,6 @@
 
 **`Desenvolvedor Back-End`**
 
-<br>
 
 <h3 align="left">Olá, meu nome é Márcio 👋 </h3>
 <p align="left">
@@ -52,8 +51,9 @@ Foi a partir dessa experiência que desenvolvi meu interesse em me tornar progra
 </div>
 
 <div align="center">
-
-  ### 📈 Estatísticas
+<br>
+  
+### 📈 Estatísticas
 
 <p>
   <img 
